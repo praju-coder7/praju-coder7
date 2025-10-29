@@ -29,8 +29,8 @@ Let's code something amazing together!
 ## 🛠️ Tech Stack
 
 ```text
-Frontend   ● React ● Next.js ● Tailwind CSS
-Backend    ● Node.js ● Express ● Python ● Django
-Database   ● PostgreSQL ● MongoDB
-DevOps     ● Docker ● GitHub Actions ● Vercel
+Frontend   ● React ● CSS
+Backend    ●Java 
+Database   ● SQL ● MongoDB
+DevOps     ● GitHub ● Git
 Tools      ● VS Code ● Git ● Figma
