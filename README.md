@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Praju 👋  
+# Hi there, I'm PRAJWAL REDDY K 👋  
 ![Banner](https://github.com/praju-coder7/praju-coder7/assets/123456789/abcdef1234567890abcdef12345678) <!-- replace with your banner image URL -->
 
 **Full-Stack Developer | Open-Source Enthusiast | Lifelong Learner**
