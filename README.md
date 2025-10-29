@@ -5,7 +5,7 @@
 
 **Full-Stack Developer | Open-Source Enthusiast | Lifelong Learner**
 
-I'm PRAJWAL REDDY K, I am passionate fresher software developer with a B.E in ELECTRONICS AND COMMUNICATION ENGINNERING , skilled in Java, SQL, React, HTML, CSS AND EXPLORING JAVASCRIPT.  
+I AM PRAJWAL REDDY K, I am passionate fresher software developer with a B.E in ELECTRONICS AND COMMUNICATION ENGINNERING , skilled in Java, SQL, React, HTML, CSS AND EXPLORING JAVASCRIPT.  
 I built "GPS VEHICLE LOCATION TRACKING SYSTEM" as my final-year project and have solved over 50 LeetCode problems.  
 Currently learning ADVANCED JAVA, REACT, REDUX, NOSQL, I'm eager to contribute to open-source and grow with a dynamic team.  
 Let's code something amazing together!
